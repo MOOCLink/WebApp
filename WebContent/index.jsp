@@ -104,9 +104,9 @@
 								</li>
 								<li class="sep"></li>
 								<li id="lastMenu" class="last">
-									<form class="navbar-form navbar-right" role="search" id="nav-search">
+									<form class="navbar-form navbar-right" action="search" method="post" role="search" id="nav-search">
 									      <div class="form-group">
-									        <input type="text" class="form-control" placeholder="Search" id="nav-form">
+									        <input type="text" name="keyword" class="form-control" placeholder="Search" id="nav-form">
 									      </div>
 									      <button type="submit" class="btn btn-lg"><span class="glyphicon glyphicon-search"></span></button>
 									</form>
@@ -224,7 +224,7 @@
 						</div>
 						<div class="boxContent">
 							<h3>Algorithmic Thinking</h3>
-							<p><b>Provider:</b> Coursera<br /><b>Start Date:</b> 08/25/14<br />This class is designed to train students in the mathematical concepts and process of “Algorithmic Thinking”, allowing them to build simpler, more efficient solutions to computational... <br>
+							<p><b>Provider:</b> Coursera<br /><b>Start Date:</b> 08/25/14<br />This class is designed to train students in the mathematical concepts and process of ���Algorithmic Thinking���, allowing them to build simpler, more efficient solutions to computational... <br>
 								<a href="portfolio-project-fullwidth-carousel.html" class="moreLink">&rarr; read more</a>
 							</p>
 						</div>
@@ -516,7 +516,7 @@
 									</ul>     
 								</div>
 								<div class="col-md-12">
-									<p>Copyright © 2014 <a href="http://www.little-neko.com" target="blank">Little NEKO</a> / All rights reserved.</p>
+									<p>Copyright �� 2014 <a href="http://www.little-neko.com" target="blank">Little NEKO</a> / All rights reserved.</p>
 								</div>
 							</div>
 						</div>
