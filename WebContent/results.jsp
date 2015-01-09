@@ -13,7 +13,7 @@
 	
 	<!-- Identify variable in the id parameter, type in class, scope in scope 
 	Code between tags will be executed after object creation -->
-	<jsp:useBean id="course" class="com.ml.course.Course" scope="request">
+	<jsp:useBean id="courses" class="com.ml.course.Course" scope="request">
 		<jsp:setProperty property="courses" name="courses" value="NewCourses" />
 	</jsp:useBean>
 	

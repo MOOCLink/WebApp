@@ -22,7 +22,6 @@ import com.ml.query.QueryInfo;
 /**
  * Servlet implementation class SearchServlet
  */
-@WebServlet("/search")
 public class SearchServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private static final String url = "http://sebk.me/mooc_7_1.rdf";
